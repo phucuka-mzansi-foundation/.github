@@ -40,7 +40,7 @@ PMF delivers standardized technical training aligned with South Africa's **Occup
 
 ## 🎯 Core Focus Areas
 
-* **Full-Stack Engineering & Data Systems:** Hands-on labs covering HTML5/modern web frameworks, Python development, SQL/NoSQL databases, MVC patterns, and Git version control.
+* **Full-Stack Engineering & Data Systems:** Hands-on labs covering HTML5/modern web frameworks, Python development, Java, javascript, SQL/NoSQL databases, MVC patterns, and Git version control.
 * **Youth Mentorship & Work Readiness:** Connecting emerging developers with industry mentors, capstone projects, and real-world software delivery workflows.
 * **Community Digital Solutions:** Developing open, production-ready software to address local operational challenges across South Africa.
 * **Corporate Learnership Pipelines:** Partnering with tech enterprises to facilitate workplace experience components (`WE-01` to `WE-04`) and graduate placements.
